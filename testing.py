@@ -1,3 +1,3 @@
-a= 10 
-b = 29 
-print(a+b) ; 
+a="siddharth r acharya"
+t=len(a)
+print(t)
